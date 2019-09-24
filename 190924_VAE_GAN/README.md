@@ -11,7 +11,7 @@
 
 ## 과제
 
-* 함께 첨부된 코드의 *TODO* commented 되어 있는 부분을 채워넣어 코드 완성(배포된 코드 참조).
+* 함께 첨부된 코드(./dcgan.py)의 *TODO* commented 되어 있는 부분을 채워넣어 코드 완성(배포된 코드 참조).
   * 주석으로 위 채워넣은 내용에 의미에 대해 설명을 기재(한글 가능).
 * 돌린 결과에 대한 best qualitative result(생성 이미지)를 붙여넣고 해당 학습 환경을 기재. 
   * 학습환경 예시: epoch, batchsize, learning rate, etc
