@@ -1,7 +1,7 @@
 # 삼성 DS-KAIST AI Expert 프로그램 
 ## Week 4. Transfer, Multi-task learning
 
-실습 일시: 2019년 7월 23일 (화), 13:30 - 17:30
+실습 일시: 2019년 9월 25일 (화), 13:30 - 17:30
 
 담당 조교: 이한국 (hankook.lee@kaist.ac.kr)
 
