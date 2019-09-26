@@ -1,4 +1,4 @@
-# Bayesian Deep Learning Homeworks
+# Bayesain Deep Learning with Monte Carlo (MC) dropout
 실습 일시: 2019년 9월 26일(목), 13:30 - 17:00
 
 담당 조교: 윤지훈 (arcprime@kaist.ac.kr), 김성엽(sungyub.kim@mli.kaist.ac.kr)
