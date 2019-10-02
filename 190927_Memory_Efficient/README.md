@@ -2,7 +2,7 @@
 
 실습 일시: 2019년 9월 27일(수), 14:00 - 17:00
 
-담당 조교: 남태욱 (namsan@kasit.ac.kr), 이하연 (hayeon926@kaist.ac.kr)
+담당 조교: 남태욱 (namsan@kaist.ac.kr), 이하연 (hayeon926@kaist.ac.kr)
 
 ## 개요
 * **과제 A.** 전반부에 진행했던 내용(이하연 조교)은 제공된 코드를 기반으로 실행 결과 제출
