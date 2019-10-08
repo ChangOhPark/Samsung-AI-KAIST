@@ -14,3 +14,5 @@
 
 
 ### Submission
+
+2개의 Assignment는 lstm.ipynb 파일을 확인해주세요. 추가 Assignment는 transformer.ipynb에 있습니다. 추가 Assignment의 경우 제출 가산점을 드리도록 하겠습니다.
